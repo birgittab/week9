@@ -1,0 +1,27 @@
+{
+  "name": "week8",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "clean": "rm -rf node_modules",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/birgittab/week8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/birgittab/week8/issues"
+  },
+  "homepage": "https://github.com/birgittab/week8#readme",
+  "devDependencies": {
+    "express": "^4.16.3",
+    "jest": "^23.6.0",
+    "supertest": "^3.3.0"
+  },
+  "dependencies": {},
+  "description": ""
+}
